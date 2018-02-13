@@ -6,6 +6,10 @@ public class HelloTeam {
 		System.out.println("Schönes Sommersemester" + 
 			" wünscht Johann Weiser!!!");
 	}
+	public static void halloVonWeiser() {
+		System.out.println("Schönes Sommersemester" + 
+			" wünscht David Jovanovic!!!");
+	}
 	public static void main(String[] args) {
 		halloVonWeiser();
 	}
